@@ -14,7 +14,7 @@ Auto File Sorter is a Python script designed to organize files based on their ex
 
 **Open the `config.json` file and set the paths according to your file organization needs:**
 
-```json
+```bash
 {
   "input_path": "C:\\Your\\Unorganized\\File\\Directory",
   "output_path": "C:\\Your\\Organized\\File\\Directory"
