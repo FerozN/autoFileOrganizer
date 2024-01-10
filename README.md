@@ -4,12 +4,13 @@ Auto File Sorter is a Python script designed to organize files based on their ex
 
 ## Usage
 
-1. **Clone the Repository:**
+**Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/YourUsername/AutoFileSorter.git
-   cd AutoFileSorter
-   
+```bash
+git clone https://github.com/YourUsername/AutoFileSorter.git
+cd AutoFileSorter
+```
+
 ## Configuration
 
 **Open the `config.json` file and set the paths according to your file organization needs:**
