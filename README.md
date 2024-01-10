@@ -19,6 +19,7 @@ Auto File Sorter is a Python script designed to organize files based on their ex
   "input_path": "C:\\Your\\Unorganized\\File\\Directory",
   "output_path": "C:\\Your\\Organized\\File\\Directory"
 }
+```
 
 ## Run the Script
 
@@ -26,6 +27,7 @@ Auto File Sorter is a Python script designed to organize files based on their ex
 
 ```bash
 python main.py
+```
 
 ## Configuration
 
